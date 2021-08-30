@@ -4,4 +4,6 @@
 
 ## Link Deploy na Netlify
 
-<a href="https://react-clone-discord.netlify.app/" target="_blank">Link Deploy</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98d629ea-fd0c-49e8-b044-65071e70e233/deploy-status)](https://app.netlify.com/sites/react-clone-discord/deploys)
+
+:rocket: <a href="https://react-clone-discord.netlify.app/" target="_blank">Link Deploy</a>
