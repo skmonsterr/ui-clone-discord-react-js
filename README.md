@@ -4,4 +4,4 @@
 
 ## Link Deploy na Netlify
 
-[Link Deploy!](https://react-clone-discord.netlify.app/)
+<a href="https://react-clone-discord.netlify.app/" target="_blank">Link Deploy</a>
